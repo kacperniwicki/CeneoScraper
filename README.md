@@ -27,4 +27,12 @@
 - obsługa błędów
 - dobranie typów danych do wartości zmniennych
 
-### Etap 2
+### Etap 2 Ekstrakcja wszystkich opinii o produkcie z pojedynczej strony
+- zapis składowych pojedynczej opinii do słownika
+- zdefiniowanie listy do przechowywania wszystkich poinii o danym produkcie
+- dodanie pętli, która wykonuje operację ekstrakcji dla wszystkich opinii z pojedynczej strony
+
+### Etap 3 Ekstrakcja wszystkich opinii z wszystkich stron
+- dodanie pętli, która pobiera i analizuje kolejne strony z opiniami o produkcie
+- dodanie możliwości podania kodu produktu "z klawiatury"
+- dodanie zapisu wszystkich opinii 
